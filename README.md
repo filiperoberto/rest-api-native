@@ -1,0 +1,1 @@
+Baseado em https://blog.logrocket.com/how-to-build-rest-api-with-typescript-using-only-native-modules/
